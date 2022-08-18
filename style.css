@@ -1,0 +1,22 @@
+h1 {
+color:darkred;
+font-family:fantasy;
+text-align: center;
+font-size: 600%;
+border-width: 8px;
+border-style:groove;
+border-color: rgb(114, 50, 50);
+background-color: brown;
+-webkit-text-stroke:2px black ;
+
+} 
+div{
+    font-family:fantasy;
+    color:darkred;
+    text-align: center;
+    list-style-position:inside;
+    list-style: none;
+}
+body{
+    background-color:rgb(41, 40, 40);
+}
